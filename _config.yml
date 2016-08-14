@@ -1,0 +1,14 @@
+layout_spectrum: 0.28480532206594944
+typography_spectrum: 0.21058232174254954
+color:
+  brandStrength: 0.6787106681149453
+  lightness: 0.9410208379849792
+  saturation: 0.5883815940469503
+  rhythmicContrast: 0.7305666175670922
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Headstand
